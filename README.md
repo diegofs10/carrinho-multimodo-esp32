@@ -18,6 +18,11 @@ O sistema foi projetado para integrar hardware, comunicação sem fio e lógica 
 
 ---
 
+### 🎥 Demonstração Prática (Modo Livre)
+![Demonstração do Carrinho](Modo_Livre.gif)
+
+---
+
 ### 🛠️ Hardware & Componentes
 - **Placa Principal:** ESP32 (Wi-Fi / Bluetooth integrado)
 - **Sensores:** Sensor de movimento/orientação (Luva) e sensores de distância (Carrinho)
